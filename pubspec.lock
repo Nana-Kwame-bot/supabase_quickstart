@@ -385,10 +385,10 @@ packages:
     dependency: transitive
     description:
       name: gotrue
-      sha256: "879ac3e981bf5f9b3af156e421688b53823b7af17de7af0d2a37894a8e5f6532"
+      sha256: f40610bacf1074723354b0856a4f586508ffb075b799f72466f34e843133deb9
       url: "https://pub.dev"
     source: hosted
-    version: "2.4.1"
+    version: "2.5.0"
   graphs:
     dependency: transitive
     description:
@@ -405,22 +405,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.0"
-  hive:
-    dependency: transitive
-    description:
-      name: hive
-      sha256: "8dcf6db979d7933da8217edcec84e9df1bdb4e4edc7fc77dbd5aa74356d6d941"
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.2.3"
-  hive_flutter:
-    dependency: transitive
-    description:
-      name: hive_flutter
-      sha256: dca1da446b1d808a51689fb5d0c6c9510c0a2ba01e22805d492c73b68e33eecc
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.1.0"
   http:
     dependency: transitive
     description:
@@ -902,10 +886,10 @@ packages:
     dependency: transitive
     description:
       name: storage_client
-      sha256: b49ff2e1e6738c0ef445546d6ec77040829947f0c7ef0b115acb125656127c83
+      sha256: bf5589d5de61a2451edb1b8960a0e673d4bb5c42ecc4dddf7c051a93789ced34
       url: "https://pub.dev"
     source: hosted
-    version: "2.0.0"
+    version: "2.0.1"
   stream_channel:
     dependency: transitive
     description:
@@ -934,18 +918,18 @@ packages:
     dependency: transitive
     description:
       name: supabase
-      sha256: f299614f6f44ee26ff1bd293869272fab79a7b087320c3b40572792b32ded06c
+      sha256: "4bce9c49f264f4cd44b4ffc895647af2dca0c40125c169045be9f708fd2a2a40"
       url: "https://pub.dev"
     source: hosted
-    version: "2.0.6"
+    version: "2.0.7"
   supabase_flutter:
     dependency: "direct main"
     description:
       name: supabase_flutter
-      sha256: a1af1749389100f6214dd4437a8faf610a00ca40522a5687920b6308f3cc073f
+      sha256: "5ef71289c380b6429216e941c69971c75eaab50d67fd7b540f6c1f6ebfc00ed7"
       url: "https://pub.dev"
     source: hosted
-    version: "2.3.1"
+    version: "2.3.3"
   term_glyph:
     dependency: transitive
     description:
